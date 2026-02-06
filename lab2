@@ -1,0 +1,56 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Laguna Brava Ecotourism</title>
+    </head>
+    <body>
+
+
+<img src="/img/laguna panoramic.jpg" 
+alt="Laguna Brava Lake"
+ title="Brava Lake">
+ width="1500"
+ height="300"
+<h1>Laguna Brava</h1>
+
+
+
+
+
+<h1>Welcome to Laguna Brava Ecotourism</h1>
+<p>Welcome blurb: Learn everything about the activities that Laguna Brava offers to its visitors.</p>
+
+
+
+<!-- Activities description -->
+<h2>General description of activities: </h2>
+<p>
+    The Mayan communities of the Chuj ethnicity settled around the lake offer several activities that allow visitors to enjoy Laguna Brava's natural beauty.
+</p>
+
+
+
+<!-- The Lake Challenge Activity -->
+<h3>The Lake Challenge</h3>
+<p>
+   Put your strengths to work by crossing the four kilometers in a kayak guided by a local guide. This adventure is physically demanding and recommended for only those in excellent physical condition.
+</p>
+
+<ul>
+    <li>Duration: 5 hours approx.</li>
+    
+</ul>
+
+<ul>
+    <li>Price: USD 50.</li>
+    
+</ul>
+<ul>
+    <li>Minimum: 2 pax</li>
+    
+</ul>
+
+The Mayan communities of the <a href=" https://en.wikipedia.org/wiki/Chuj_people">Chuj ethnicity</a> settled around the lake offer several activities that allow visitors to enjoy Laguna Brava's natural beauty.
+
+    </body>
+</html>
